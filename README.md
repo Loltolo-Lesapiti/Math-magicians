@@ -1,6 +1,6 @@
-# Math Magicians Setup.
+# Math Magicians Structure.
 
-> This is the first project of the Math Magicians application. It sets up the environment and tools needed to develop a React application.
+> This is the second milestone of the Math Magicians application project. Its the basic structure of the calculator without functionalities. 
 
 ## Built with
 
@@ -11,6 +11,7 @@
 - WebHint
 - Stylelint
 - ESlint
+- Webpack
 
 ## Live demo
 
