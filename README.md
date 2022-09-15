@@ -1,6 +1,6 @@
-# Math Magicians Structure.
+# Math Magicians events.
 
-> This is the second milestone of the Math Magicians application project. Its the basic structure of the calculator without functionalities. 
+> This is the third milestone of the Math Magicians application project. It adds the events to the buttons to make the calculator functional i.e can perform arithmetics. 
 
 ## Built with
 
