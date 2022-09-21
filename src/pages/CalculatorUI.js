@@ -1,8 +1,8 @@
 import Calculator from "../components/Calculator";
 
 const CalculatorUI = () => (
-  <div className="container">
-    <h2>Let&apos;s do same maths!</h2>
+  <div className="calculatorContainer">
+    <h2>Calculator</h2>
     <Calculator />
   </div>
 );
