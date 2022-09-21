@@ -31,7 +31,8 @@ button {
 .operator {
   background-color: rgb(235, 110, 38);
 }
-/* Styling Header*/
+
+/* Styling Header */
 header {
   height: 60px;
   width: 100vw;
@@ -40,25 +41,30 @@ header {
   margin-top: 0;
   margin-left: 0;
 }
+
 nav {
   display: flex;
   justify-content: space-around;
 }
+
 nav ul {
   list-style: none;
   display: flex;
   gap: 20px;
 }
+
 .homeContainer {
   display: flex;
   flex-direction: column;
   background: rgb(237, 202, 227);
   height: 100vh;
 }
+
 .homeContainer h2 {
   font-size: 18px;
   font-weight: bold;
 }
+
 .calculatorContainer {
   display: flex;
   flex-direction: column;
@@ -67,15 +73,18 @@ nav ul {
   background: rgb(237, 202, 227);
   height: 100vh;
 }
+
 .calculatorContainer h2 {
   font-size: 18px;
   font-weight: bold;
 }
+
 .QuoteContainer {
   background: rgb(237, 202, 227);
   height: 100vh;
   margin-top: -20px;
 }
+
 .QuoteContainer h2 {
   margin-top: 20px;
 }
