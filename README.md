@@ -1,6 +1,6 @@
-# Math Magicians: refactor with hooks.
+# Math Magicians: Full Website.
 
-> This is the fourth milestone of the Math Magicians application project. It refactors the Calculator component (components/Calculator.js) from a class based component to a functional component with hooks.
+> This is a full website of the Math Magicians application project. It includes nav menu with three pages for navigation.
 
 ## Built with
 
