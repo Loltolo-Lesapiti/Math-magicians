@@ -1,6 +1,6 @@
-# Math Magicians events.
+# Math Magicians: refactor with hooks.
 
-> This is the third milestone of the Math Magicians application project. It adds the events to the buttons to make the calculator functional i.e can perform arithmetics. 
+> This is the fourth milestone of the Math Magicians application project. It refactors the Calculator component (components/Calculator.js) from a class based component to a functional component with hooks.
 
 ## Built with
 
