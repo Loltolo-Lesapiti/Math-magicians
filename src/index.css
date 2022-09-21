@@ -10,7 +10,6 @@
   background: #d3d3d3;
   font-size: 20px;
   width: 40%;
-  margin: 10% 20%;
 }
 
 .workspace {
@@ -31,4 +30,78 @@ button {
 
 .operator {
   background-color: rgb(235, 110, 38);
+}
+
+/* Styling Header */
+header {
+  height: 60px;
+  width: 100vw;
+  position: fixed;
+  background: rgb(192, 52, 235);
+  margin-top: 0;
+  margin-left: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  background: rgb(237, 202, 227);
+  height: 100vh;
+}
+
+.homeContainer h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.calculatorContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  background: rgb(237, 202, 227);
+  height: 100vh;
+}
+
+.calculatorContainer h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.QuoteContainer {
+  background: rgb(237, 202, 227);
+  height: 100vh;
+  margin-top: -20px;
+}
+
+.QuoteContainer h2 {
+  margin-top: 20px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  gap: 20px;
+  margin-left: 20px;
+  font-size: 18px;
+  font-weight: 100;
 }
