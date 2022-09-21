@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => (
   <div className="homeContainer">
-    <h2>Welcome to our page!</h2>
+    <h2>Welcome to Maths World!</h2>
     <div className="description">
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
