@@ -51,6 +51,11 @@ npx eslint ."
 
 - GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
 - LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
+ **Natnael Amare**
+
+- GitHub: [@Natnael](https://github.com/nati2323)
+- LinkedIn: [@Natnael Amare](https://www.linkedin.com/in/natnael-amare-b5844510a/)
+
 
 ## Collaborators
 
