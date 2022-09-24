@@ -22,7 +22,7 @@ describe('Unit test of the Calculator Logic', () => {
     const operation = '×';
     expect(operate(firstNum, secondNum, operation)).toEqual('20');
   });
-  test('Testing Module operator', () => {
+  test('Testing Modulus operator', () => {
     const operation = '%';
     expect(operate(firstNum, secondNum, operation)).toEqual('0');
   });
