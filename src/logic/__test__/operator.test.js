@@ -1,8 +1,8 @@
-import operate from "../operator";
+import operate from '../operator';
 
 describe('Unit test of the Calculator Logic', () => {
-    const firstNum = '10';
-    const secondNum = '2';
+  const firstNum = '10';
+  const secondNum = '2';
   test('Testing Addition', () => {
     const operation = '+';
     expect(operate(firstNum, secondNum, operation)).toEqual('12');
@@ -19,7 +19,7 @@ describe('Unit test of the Calculator Logic', () => {
   });
 
   test('Testing multiplication', () => {
-    const operation = 'x';
+    const operation = '×';
     expect(operate(firstNum, secondNum, operation)).toEqual('20');
   });
 });

@@ -1,4 +1,4 @@
-import calculate from "../calculate";
+import calculate from '../calculate';
 
 describe('Operation Unit Testing', () => {
   test('Operation plus', () => {
@@ -33,7 +33,7 @@ describe('Operation Unit Testing', () => {
     const obj = {
       total: '10',
       next: '2',
-      operation: 'x',
+      operation: '×',
     };
     const buttonName = '=';
     expect(calculate(obj, buttonName)).toEqual({
